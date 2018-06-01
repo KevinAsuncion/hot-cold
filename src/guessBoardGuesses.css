@@ -1,0 +1,25 @@
+.guessboard-guesses-container {
+    background-color: #11a8ab;
+    min-height: 80px;
+    max-height: 100%;
+    margin-bottom: 80px;
+    border-radius: 3px;
+}
+
+.guessboard-guesses {
+    list-style: none; 
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0;
+    padding: 15px;
+    justify-content: center;
+}
+
+.guessboard-guesses li {
+    background-color: #1a4e95;
+    width: 28px;
+    margin: 10px 5px;
+    padding: 3px;
+    border-radius: 3px;
+}

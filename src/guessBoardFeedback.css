@@ -1,0 +1,10 @@
+.guessboard-feedback {
+    background: #cc324b;
+    color: white;
+    height: 90px;
+    font-size: 25px;
+    display: flex; 
+    justify-content: center;
+    border-radius: 3px;
+    padding: 0 15px;
+}

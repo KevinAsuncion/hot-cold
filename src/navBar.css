@@ -1,0 +1,9 @@
+.Game-Nav {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  cursor: pointer;
+}
+.Game-Nav li {
+  cursor: pointer;
+}

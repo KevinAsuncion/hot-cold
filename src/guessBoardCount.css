@@ -1,0 +1,16 @@
+.guessboard-count-container {
+     background-color: #394264;
+     padding-top: 10px;
+}
+
+.guessboard-count {
+      margin-top: 10px;
+      margin-bottom: 0;
+      padding-bottom: 30px;
+      font-size: 30px;
+}
+
+#number {
+    color: #f39c12;
+    font-size: 46px;
+}

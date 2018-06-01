@@ -1,0 +1,40 @@
+.guessform-container {
+    height: 150px;
+    background-color: #394264;
+    display: flex;
+    justify-content: center;
+}
+
+.guessform-container input {
+    height: 50px;
+    width: 300px;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 32px; 
+    background-color: #50597b;
+    border: solid 1px black;
+    color: white;
+}
+
+.guessboard-form-button {
+   margin-top: 25px; 
+   height: 50px;
+   width: 300px;
+   border-radius: 5px;
+   font-size: 32px;
+   border: none; 
+   background-color: #1F253D;
+   color: rgb(156, 156, 156);
+}
+
+.guessboard-form-button:hover {
+  background-color: #e64c65;
+  color: white; 
+  cursor: pointer;
+}
+
+::placeholder { 
+    color: rgb(156, 156, 156);
+}
+
